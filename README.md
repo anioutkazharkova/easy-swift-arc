@@ -1,2 +1,2 @@
-# easy-arc
+# EasySwiftArc
 Guide to iOS architectural patterns 
